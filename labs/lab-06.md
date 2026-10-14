@@ -77,7 +77,7 @@ Instructor creates a "class-resources" repository with a simple file:
 ```
 
 **Student Tasks:**
-
+Form study groups with classmates
 1. **Fork the repository** (click Fork button)
 2. **Add your own study tip:**
    - Click pencil icon to edit
